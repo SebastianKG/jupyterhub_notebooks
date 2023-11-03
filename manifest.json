@@ -15,10 +15,10 @@
   },
   "files": {
     "simple-notebook.ipynb": {
-      "checksum": "2f6cceae1d861df553a6ebb64b6862ef"
+      "checksum": "95506c2700fe61c8b94b820c67f3653b"
     },
     "requirements.txt": {
-      "checksum": "f4df991d7d374aa1e2ecad3d5e3e4dd4"
+      "checksum": "db6ec9b66be1c4442b67a65ae5fd240c"
     }
   }
 }
